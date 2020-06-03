@@ -1,8 +1,11 @@
 import express from 'express';
+import cors from 'cors';
 import routes from './routes';
 import path from 'path';
 
 const app = express();
+
+app.use(cors());
 
 //Para que o express possa entender o corpo da requisição em JSON
 app.use(express.json());
