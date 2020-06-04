@@ -3,13 +3,12 @@ import './App.css';
 
 //JSX: Sintaxe de XML dentro do JavaScript 
 
-import Home from './pages/Home';
-import CreatePoint from './pages/CreatePoint';
+import Routes from './routes';
 
 function App() {
   
   return (
-       <CreatePoint />
+       <Routes />
   );
 }
 
