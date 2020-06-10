@@ -20,11 +20,11 @@ Ecoleta
   <a href="#licença">Licença</a> 
 </h3>
 
-<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Capa.png" width="1200">
-<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Screenshot_20200610-124435_Expo.jpg" width="800">
-<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Anota%C3%A7%C3%A3o%202020-06-10%20131323.png" width="800">
-<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Screenshot_20200610-130133_Expo.jpg" width="800">
-<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Screenshot_20200610-130114_Expo.jpg" width="800">
+<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Capa.png" width="800">
+<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Screenshot_20200610-124435_Expo.jpg" width="400">
+<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Anota%C3%A7%C3%A3o%202020-06-10%20131323.png" width="400">
+<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Screenshot_20200610-130133_Expo.jpg" width="400">
+<img src="https://github.com/JerielZi/EcoletaApp/blob/master/Screenshot_20200610-130114_Expo.jpg" width="400">
 
 ## :information_source: Sobre
 
